@@ -1,2 +1,2 @@
 # icarodgl.github.io
-Blog
+obrigado por ler.

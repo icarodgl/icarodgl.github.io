@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06d32c36.chunk.css",
+    "main.js": "/static/js/main.f68c0145.chunk.js",
+    "main.js.map": "/static/js/main.f68c0145.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/js/2.feaa8828.chunk.js": "/static/js/2.feaa8828.chunk.js",
+    "static/js/2.feaa8828.chunk.js.map": "/static/js/2.feaa8828.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f2728cefd3b8ed4e97a8335f8d7c8271.js": "/precache-manifest.f2728cefd3b8ed4e97a8335f8d7c8271.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.06d32c36.chunk.css.map": "/static/css/main.06d32c36.chunk.css.map",
+    "static/js/2.feaa8828.chunk.js.LICENSE.txt": "/static/js/2.feaa8828.chunk.js.LICENSE.txt",
+    "static/media/logodotei.png": "/static/media/logodotei.4f6669be.png",
+    "static/media/viralataCaramel1.jpg": "/static/media/viralataCaramel1.db9c6cf8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/js/2.feaa8828.chunk.js",
+    "static/css/main.06d32c36.chunk.css",
+    "static/js/main.f68c0145.chunk.js"
+  ]
+}
